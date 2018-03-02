@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/lr784521/Relaxation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@120.79.88.151:/home/git/repost.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\anli" />
+    <option name="cloneParentDir" value="E:\app" />
   </component>
 </application>
